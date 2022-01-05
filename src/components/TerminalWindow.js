@@ -137,7 +137,7 @@ class TerminalWindow extends HTMLElement {
     <div class="container">
       <div class="titlebar">
         <div class="icon">
-          <img src="/assets/manzdev-go.png" alt="Icon">
+          <img src="assets/manzdev-go.png" alt="Icon">
         </div>
         <div class="title">${this.title}</div>
         <div class="buttons">
